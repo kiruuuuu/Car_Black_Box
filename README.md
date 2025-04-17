@@ -1,1 +1,2 @@
 # Car_Black_Box
+Engineered a car black box using a microcontroller to monitor and record vehicle parameters for safety, diagnostics, and accident analysis. Constructed a time-logging and data management system utilizing RTC, keypad, and EEPROM for secure data storage. Integrated a menu-driven interface to manage logs and display time-based data on an LCD. Facilitated log downloads via UART, enhancing system usability.
